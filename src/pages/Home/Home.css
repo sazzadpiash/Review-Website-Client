@@ -1,0 +1,30 @@
+.red-font {
+    color: #ff014d;
+}
+
+.red-bg-btn {
+    background-color: #ff014d;
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    border-color: #ff014d;
+}
+
+.red-bg-btn:hover {
+    border-color: #ff014d;
+}
+
+.red-border {
+    border-color: #ff014d;
+    font-family: 'Poppins', sans-serif;
+}
+.red-border:hover {
+    border-color: #ff014d;
+    background-color: #ff014d;
+    color: #fff;
+    font-weight: 600;
+}
+
+.menu a:active {
+    background-color: #ff014d;
+}
